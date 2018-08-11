@@ -4,3 +4,5 @@ This is where my rails code goes.
 Setting up environment. 
 
 Atom updated with IDE on gunny
+
+First set of stackskills lessons.
