@@ -15,3 +15,12 @@ puts "The length of your last name is #{last_name_len}"
 reverse_first = first_name.reverse
 
 puts "The first name reversed is #{reverse_first}"
+
+puts "Please enter the first number:"
+first_num = gets.chomp
+puts "Please enter the second number: "
+second_num = gets.chomp
+
+puts "The first mulitplied by the second is #{first_num.to_i * second_num.to_i}"
+puts "The first divided by the second is #{first_num.to_i / second_num.to_i}"
+puts "The first modulus the second is #{first_num.to_i % second_num.to_i}"
