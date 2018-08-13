@@ -3,4 +3,5 @@ first_name = gets.chomp
 puts "What is your last name?"
 last_name = gets.chomp
 
+# now show the results
 puts "Welcome to the playground, #{first_name} #{last_name}"
