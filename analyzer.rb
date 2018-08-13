@@ -55,6 +55,7 @@ else
 end
 
 puts "The result is #{result}"
+##removed to debug
 #puts "Please enter the first number:"
 #first_number = gets.chomp
 #puts "Please enter the second number: "
